@@ -1,0 +1,13 @@
+Sistemas:
+habia practicas?
+si
+	cuantas?
+	(3) pues 3 dieces en practicas
+no
+	
+Entornos
+programacion
+ldm
+bases
+fol
+ingles
